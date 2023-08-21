@@ -1,5 +1,5 @@
-# Projeto de aprendizado Cypress 🧪
-## Projeto elaborado no curso ***Testes de aplicações modernas com Cypress - COD3R***
+ # Projeto de treinamento  Cypress #
+
 
 <br>
 <p float="left">
@@ -9,13 +9,6 @@
 </p>
 <br>
 
-🎬 Para visualizar os vídeos gerados dos testes desenvolvidos, acesse o link abaixo: 🎬<br>
-[<ins>Videos gerados</ins>](https://caioliveira277.github.io/cypress-cod3r/)
-
-<br>
-
-## Ideia: 💡
-Desenvolver testes na aplicação disponibilizada no curso
 
 ## Testes:
 - Processo de criação de conta;
@@ -24,7 +17,7 @@ Desenvolver testes na aplicação disponibilizada no curso
 - Interceptação de respostas das requisições;
 - Testes de interface e entre outros.
 
-## Executando o projeto: 🚀
+## Executando o projeto: 
 Para executar e visualizar o projeto em **modo de desenvolvimento**, você precisará seguir as próximas etapas.
 
 ### Pré-requisitos:
@@ -51,11 +44,3 @@ Os scripts abaixo executam a compilação do projeto.
     
 
 ---
-## Links: 🌐
-***Curso Cod3er:***<br>
-[<ins>estes de aplicações modernas com Cypress</ins>](https://www.cod3r.com.br/courses/testes-de-aplicacoes-modernas-com-cypress)
-
-
----
-## Licença
-Este projeto está licenciado sob a licença [MIT] - consulte o arquivo LICENSE.md para obter detalhes
